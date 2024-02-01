@@ -1171,7 +1171,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero-bg.jpg);
+      url(../images/img-hero.jpg);
   }
 
   @media screen and (min-device-pixel-ratio: 2),
@@ -1183,7 +1183,7 @@ button {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/hero-bg-2x.jpg);
+        url(../images/hero-2x.jpg);
     }
   }
 
